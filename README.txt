@@ -12,7 +12,7 @@ Acknowledgment:
 
 The work described in the code was published in:
 
-[1] Li He, Nilanjan Ray and Hong Zhang, "Error Bound of Nystrom-approximated NCut Eigenvectors and Its Application to Training Size Selection", to appear in Neurocomputing.
+[1] Li He, Nilanjan Ray and Hong Zhang, "Error Bound of Nystrom-approximated NCut Eigenvectors and Its Application to Training Size Selection", Neurocomputing, 2017, Vol. 239, May: 130-142.
 
 Please cite this paper if you use the code to generate your results.
 
